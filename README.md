@@ -1,8 +1,8 @@
 # Saudi Riyal Classifier
 ## Task Overview:
-# In this project, you’ll build an image classification model using a Convolutional Neural Network (CNN) to recognize Saudi currency images based on their visual appearance.
+#In this project, you’ll build an image classification model using a Convolutional Neural Network (CNN) to recognize Saudi currency images based on their visual appearance.
 ## The dataset is available on Kaggle:
-# https://www.kaggle.com/datasets/gfbati/alfloos
+####  https://www.kaggle.com/datasets/gfbati/alfloos
 # It includes images of the following currency denominations: 5,50, 100, 200, 500.
 ## Model & Training
 # The model was built from scratch using a custom Convolutional Neural Network (CNN) architecture. I experimented with different layers, filter sizes, and activation functions to achieve the best performance.
