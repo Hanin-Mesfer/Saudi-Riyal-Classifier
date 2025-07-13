@@ -3,7 +3,7 @@
 #### In this project, I build an image classification model using a Convolutional Neural Network (CNN) to recognize Saudi currency images based on their visual appearance.
 #### The dataset is available on Kaggle:
 #####  https://www.kaggle.com/datasets/gfbati/alfloos
-#### It includes images of the following currency denominations: 5,50, 100, 200, 500.
+#### It includes images of the following types of banknotes: 5,50, 100, 200, 500.
 ### Model & Training
 #### The model was built from scratch using a custom Convolutional Neural Network (CNN) architecture. I experimented with different layers, filter sizes, and activation functions to achieve the best performance.
 #### To improve the model’s generalization and robustness, I applied several data preprocessing and augmentation techniques, including:
